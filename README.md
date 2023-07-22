@@ -1,2 +1,2 @@
-# wealth-trackr-rest
-Provides RESTFUL API for the app
+#  WealthTracker 
+WealthTracker is a powerful wealth monitoring application that allows users to track and manage their financial assets and investments. Gain insights into your net worth, portfolio performance, and asset allocations all in one place. Record and analyze transactions, view historical performance, and make informed financial decisions. Whether you're a seasoned investor or just starting on your financial journey, WealthTracker provides the tools you need to take control of your wealth and plan for a prosperous future.
