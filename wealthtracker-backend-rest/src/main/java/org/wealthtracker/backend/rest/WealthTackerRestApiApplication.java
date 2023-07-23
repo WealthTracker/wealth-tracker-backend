@@ -1,4 +1,4 @@
-package org.wealthtracker.backend;
+package org.wealthtracker.backend.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
