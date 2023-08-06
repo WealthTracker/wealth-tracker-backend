@@ -1,4 +1,4 @@
-package org.wealthtracker.backend.core.testutils;
+package org.wealthtracker.backend.core.jpa.conf;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.context.annotation.Configuration;

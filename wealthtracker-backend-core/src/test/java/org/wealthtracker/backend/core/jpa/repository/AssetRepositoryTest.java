@@ -11,8 +11,8 @@ import org.springframework.test.context.jdbc.Sql;
 import org.testcontainers.containers.PostgreSQLContainer;
 import org.testcontainers.junit.jupiter.Container;
 import org.testcontainers.junit.jupiter.Testcontainers;
+import org.wealthtracker.backend.core.jpa.conf.JPAConfiguration;
 import org.wealthtracker.backend.core.jpa.entity.Asset;
-import org.wealthtracker.backend.core.testutils.JPAConfiguration;
 
 @Testcontainers
 @DataJpaTest(excludeAutoConfiguration = TestDatabaseAutoConfiguration.class)
