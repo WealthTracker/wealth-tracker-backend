@@ -15,3 +15,7 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
     show-sql: true
+
+springdoc:
+  api-docs:
+    url: /v3/api-docs
