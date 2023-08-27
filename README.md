@@ -29,4 +29,9 @@ $ mvn clean install
 ```shell
 $ mvn spring-boot:run
 ```
+## Functionalities
+### List of the assets
+http://localhost:8080/v1/assets
 
+### OpenAPI
+http://localhost:8080/swagger-ui/index.html
